@@ -5,3 +5,38 @@ and may be changed or removed at any time. Please don't put anything in here tha
 
 Unless it has a very clear license statement, content in here will be assumed to be licensed under the
 [Apache 2.0 license](../LICENSE) meaning it can be copied, derivatives made, etc.
+
+## New Objects
+
+### STIX Core Objects
+
+#### STIX Domain Objects (SDO)
+
+TODO
+
+#### STIX Cyber-observable Objects (SCO)
+
+- [Blockchain](./core/sco/blockchain.md)
+- [Blockchain Address](./core//sco/blockchain-address.md)
+
+#### STIX Relationship Objects (SRO)
+
+TODO
+
+### STIX Meta Objects
+
+#### Extension Definition Objects
+
+TODO
+
+#### Language Content Objects
+
+TODO
+
+#### Marking Definition Objects
+
+TODO
+
+## Object Modifications
+
+TODO
