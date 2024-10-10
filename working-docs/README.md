@@ -8,6 +8,8 @@ Unless it has a very clear license statement, content in here will be assumed to
 
 ## New Objects
 
+Objects not represented in STIX 2.1.
+
 ### STIX Core Objects
 
 #### STIX Domain Objects (SDO)
@@ -39,4 +41,6 @@ TODO
 
 ## Object Modifications
 
-TODO
+Objects present in STIX 2.1 with proposed changes to accomodate additional detail.
+
+_None at this time_
